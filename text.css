@@ -1,5 +1,9 @@
- {
-    --JoinUs: "Hey Un Servidor o Grupo Salvaje entro!!";
+:root {
+    --title: "Jazmin Custom Text's";
+
+
+            /* CUSTOM TEXTS */
+        --JoinUs: "Hey Un Servidor o Grupo Salvaje entro!!";
     --AddNewServer: "Queres Añadir un Servidor a la Partida?";
     --Close: "✖";
     --Resize: "↔";
@@ -17,5 +21,7 @@
     --EditStatus: "Edita O Pon una Status";
     --Micro: "🎙️";
     --Headset: "🎧";
-
+    --WriteMessage: 'Escribe un Mensaje!...';
+    --ListenAlong: 'Oye musica conmigo!';
+    --TaggedName: 'Vos';
 }
